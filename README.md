@@ -100,6 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [happyfinder](https://github.com/hugows/hf)- (another) Fuzzy file finder for the command line
 - [PathPicker](https://facebook.github.io/PathPicker/) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
 - [tldr](https://github.com/tldr-pages/tldr)- Simplified and community-driven man pages
+- [fzf](https://github.com/junegunn/fzf) - General purpose Fuzzy finder
 
 ## Data Manipulation
 
